@@ -1,4 +1,5 @@
 # FPS GAME - Construindo seu primeiro jogo 3D na Unity
+![alt text](http://url/to/img.png)
 Adquira o nosso curso FPS GAME - Construindo seu primeiro jogo 3D na Unity clicando no link: https://www.udemy.com/course/fps-game-construindo-seu-primeiro-jogo-3d-na-unity/?referralCode=6E2134BA2215729F694C 
 
 Você já se perguntou como os desenvolvedores criam jogos estilo FPS (First Person Shooter) que envolvem correr, pular e enfrentar vários tipos de inimigos? Agora é a sua vez de se tornar um desenvolvedor de jogos e construir o seu próprio jogo 3D utilizando a Unity Engine, uma das ferramentas mais utilizadas na indústria para o desenvolvimento de jogos.
